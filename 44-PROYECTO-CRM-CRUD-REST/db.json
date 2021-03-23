@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Orlando",
+      "email": "orlando@correo.com",
+      "telefono": "7221231234",
+      "empresa": "Gnr",
+      "id": 2
+    },
+    {
+      "nombre": "Yessi",
+      "email": "yessi@correo.com",
+      "telefono": "7224694992",
+      "empresa": "                        Gunhill         ",
+      "id": 3
+    },
+    {
+      "nombre": "Iris",
+      "email": "iris@correo.com",
+      "telefono": "232323232",
+      "empresa": "Monroy",
+      "id": 4
+    },
+    {
+      "nombre": "Jose Saturnino",
+      "email": "saturnino@correo.com",
+      "telefono": "323232323",
+      "empresa": "Toluca Fc",
+      "id": 5
+    }
+  ]
+}
